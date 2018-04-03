@@ -39,7 +39,7 @@ list-style:none;
 line-height:60px;
 }
 .header li{
-float:right;
+float:left;
 }
 .header ul li a{
 width:130px;
